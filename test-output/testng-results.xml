@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47899" started-at="2021-07-18T23:03:02 IST" finished-at="2021-07-18T23:03:50 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47899" started-at="2021-07-18T23:03:02 IST" finished-at="2021-07-18T23:03:50 IST">
+      <class name="com.wordpress.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.LoginPageTest@8646db9]" name="setup" is-config="true" duration-ms="20447" started-at="2021-07-18T23:03:02 IST" finished-at="2021-07-18T23:03:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.wordpress.qa.testcases.LoginPageTest@8646db9]" name="loginTest" duration-ms="26181" started-at="2021-07-18T23:03:23 IST" finished-at="2021-07-18T23:03:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.LoginPageTest@8646db9]" name="teardown" is-config="true" duration-ms="1126" started-at="2021-07-18T23:03:49 IST" finished-at="2021-07-18T23:03:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.wordpress.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
